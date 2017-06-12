@@ -1,0 +1,22 @@
+[
+    {
+        "expense": 65,
+        "category": "Kernel1"
+    },
+    {
+        "expense": 78,
+        "category": "Kernel2"
+    },
+    {
+        "expense": 90,
+        "category": "Kernle3"
+    },
+    {
+        "expense": 85,
+        "category": "Kernel4"
+    },
+    {
+        "expense": 66,
+        "category": "Kernel5"
+    }
+]
